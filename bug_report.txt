@@ -1,1 +1,11 @@
-
+Bug_report: 
+            id_1:
+                  Title - Missing textbox "Search intrument"
+                  Steps - Open capital.com, Search textbox
+                  Actual Result - Textbox is missing
+                  Excepted Result - Textbox on main page  
+             id_2:
+                  Title - Button "Products" is unclickable
+                  Steps - Open capital.com, Click "Products" button on site navigation
+                  Actual Result - Button is unclickable
+                  Excepted Result - Redirecting to "Products" page
