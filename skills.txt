@@ -1,0 +1,6 @@
+Skills to be learned:
+Skill_1 - Creating checklists
+Skill_2 - Work on terminal
+Skill_3 - Work with GitHub
+Skill_4 - API testing
+Skill_5 - Work with database
