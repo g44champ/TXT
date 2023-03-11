@@ -1,0 +1,4 @@
+Name - Anton
+Age - 26
+Quantity pet - 1
+Desired salary - 100K$
